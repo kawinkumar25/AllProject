@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AllProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AllProject_jar</output-path>
+    <root id="archive" name="AllProject.jar">
+      <element id="module-output" name="AllProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Project/src/lib/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
