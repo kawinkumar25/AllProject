@@ -3,7 +3,7 @@ package org.example.stackandqueue;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class queuemethods {
+public class Queuemethods {
     Logger log=Logger.getLogger("queue.class");
     Node1 rootNode=null;
     int count =0;
